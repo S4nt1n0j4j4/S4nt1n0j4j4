@@ -5,7 +5,7 @@
 - he
 - Fun fact: no sé
 - [clikea esto](https://matias.me/nsfw/)
-- ![foto de un perrito](https://i.pinimg.com/236x/7d/9e/5c/7d9e5ce429185632d08091cfafc4713b.jpg)
+- ![globo de texto](https://i.pinimg.com/236x/5f/8c/72/5f8c726afbd25953fe139687c3a45ea6.jpg)
 
 <!---
 --->
